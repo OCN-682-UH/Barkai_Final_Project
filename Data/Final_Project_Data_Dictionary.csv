@@ -1,0 +1,6 @@
+﻿Name,Plot_name,Data_Type,Description,Units
+Locus,Sequence ID Number,Character,Each locus has a unique sequence ID number from GenBank. It allows you to identify and retrieve that specific sequence record.,Unique ID Number given by GenBank
+Collection_Date,Collection Date,Character,"The date the sample was collected. The date is stored as a character string formatted to the ISO 8601 standard (YYYY-MM-DD), ensuring consistency and ease of data analysis later on.",YYYY-MM-DD
+Sequence,CO1 DNA Sequence,Character,This is the contiguous DNA sequence of the Cytochrome Oxidase 1 (CO1) gene region. It was obtained using a CO1 primer.,Base Pairs (bp)
+Sampling_Location,Sample Location,Character,The geographic region where the sample was collected.,Geographic Name
+Species,Species Name,Character,This is the species name the person who uploaded the locus sequence defined the species as. ,Binomial Nomenclature

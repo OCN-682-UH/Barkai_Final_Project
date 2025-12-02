@@ -1,0 +1,1356 @@
+LOCUS       KF012802                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H1 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012802
+VERSION     KF012802.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H1"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62292.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012803                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H2 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012803
+VERSION     KF012803.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H2"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62293.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acctactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012804                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H3 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012804
+VERSION     KF012804.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H3"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62294.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttacg ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012805                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H4 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012805
+VERSION     KF012805.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H4"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62295.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag cgtacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aactcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccactat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012806                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H5 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012806
+VERSION     KF012806.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H5"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62296.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagccca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012807                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H6 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012807
+VERSION     KF012807.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H6"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62297.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aactcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccactat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012808                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H7 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012808
+VERSION     KF012808.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H7"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62298.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttagggggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagccca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012809                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H8 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012809
+VERSION     KF012809.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H8"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62299.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWNTPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgaaaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012810                 488 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H9 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012810
+VERSION     KF012810.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 488)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 488)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..488
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H9"
+     gene            <1..>488
+                     /gene="COI"
+     CDS             <1..>488
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62300.1"
+                     /translation="VIAHYSGKREPLGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MF"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accccttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagccca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgttta
+//
+
+LOCUS       KF012811                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H10 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012811
+VERSION     KF012811.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H10"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62301.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctag gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acctactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012812                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H11 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012812
+VERSION     KF012812.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H11"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62302.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct atagggatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012813                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H12 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012813
+VERSION     KF012813.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H12"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62303.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtactatcaa tgggggccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012814                 549 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H13 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012814
+VERSION     KF012814.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 549)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 549)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..549
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H13"
+     gene            <1..>549
+                     /gene="COI"
+     CDS             <1..>549
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62304.1"
+                     /translation="AHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVDTR
+                     AYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVLAN
+                     SSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFIMF
+                     IGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 gctcactact caggaaagcg agaacccttt ggatatttgg gtatggttta tgcaatgatt
+       61 gctataggaa tactaggatt tttagtatga gctcatcata tgtttacagt aggaatggac
+      121 gtagacacac gagcatactt caccgctgca acaatgataa ttgccgtacc aacaggaatt
+      181 aaggttttta gatgaatggc aacactccaa ggatcaaatc tacagtgaga aaccccacta
+      241 ctatgagccc tgggatttgt ctttctattt acattaggag gactaactgg gattgttcta
+      301 gctaattcct caattgacgt tgtactacac gacacttact acgtggtagc tcacttccat
+      361 tatgtactat caatgggagc cgtctttgca atttttgcag gatttaccca ctggtttcct
+      421 ctattttcag gttacaacct acaccctcta tgaggaaagg tgcacttctt tattatgttt
+      481 attggagtca atctaacatt cttcccacaa cactttctag gactagctgg aatgccacga
+      541 cgatactca
+//
+
+LOCUS       KF012815                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H14 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012815
+VERSION     KF012815.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H14"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62305.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttacg ttaggaggac taactgggat
+      301 tgttctagcg aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012816                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H15 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012816
+VERSION     KF012816.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H15"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62306.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acctactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcagggt ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012817                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H16 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012817
+VERSION     KF012817.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H16"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62307.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtattatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012818                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H17 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012818
+VERSION     KF012818.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H17"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62308.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gttttcagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012819                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H18 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012819
+VERSION     KF012819.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H18"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62309.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acctactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattttt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012820                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H19 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012820
+VERSION     KF012820.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H19"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62310.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttagggggac taactggaat
+      301 tgttctagct aactcctcaa ttgacgttgt actacacgac acttactacg tggtagccca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtac acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012821                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H20 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012821
+VERSION     KF012821.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H20"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62311.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt cttcgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012822                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H21 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012822
+VERSION     KF012822.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H21"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62312.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac aatgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttacg ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012823                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H22 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012823
+VERSION     KF012823.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H22"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62313.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctgg gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttctagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagctca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatc tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+
+LOCUS       KF012824                 556 bp    DNA     linear   INV 12-FEB-2014
+DEFINITION  Tripneustes gratilla haplotype H23 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KF012824
+VERSION     KF012824.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Evaluating edge-of-range genetic patterns for tropical echinoderms,
+            Acanthaster planci and Tripneustes gratilla, of the Kermadec
+            Islands, southwest Pacific
+  JOURNAL   Bull. Mar. Sci. (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Liggins,L., Gleeson,L. and Riginos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2013) School of Biological Sciences, The
+            University of Queensland, St. Lucia, QLD 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Se-Al v. v2.0a11
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7673"
+                     /haplotype="H23"
+     gene            <1..>556
+                     /gene="COI"
+     CDS             <1..>556
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHI62314.1"
+                     /translation="VIAHYSGKREPFGYLGMVYAMIAIGILGFLVWAHHMFTVGMDVD
+                     TRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLWALGFVFLFTLGGLTGIVL
+                     ANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFPLFSGYNLHPLWGKVHFFI
+                     MFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 cgttatagct cactactcag gaaagcgaga accctttgga tatttgggta tggtttatgc
+       61 aatgattgct ataggaatac taggattttt agtatgagct catcatatgt ttacagtagg
+      121 aatggacgta gacacacgag catacttcac cgctgcaaca atgataattg ccgtaccaac
+      181 aggaattaag gtttttagat gaatggcaac actccaagga tcaaatctac agtgagaaac
+      241 cccactacta tgagccctag gatttgtttt tctatttaca ttaggaggac taactgggat
+      301 tgttttagct aattcctcaa ttgacgttgt actacacgac acttactacg tggtagccca
+      361 cttccattat gtactatcaa tgggagccgt ctttgcaatt tttgcaggat ttacccactg
+      421 gtttcctcta ttttcaggtt acaacctaca ccctctatga ggaaaggtgc acttctttat
+      481 tatgtttatt ggagtcaatc taacattctt cccacaacac tttctaggac tagctggaat
+      541 gccacgacga tactca
+//
+

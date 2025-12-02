@@ -1,0 +1,3444 @@
+LOCUS       AY205373                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 27 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205373
+VERSION     AY205373.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="27"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="USA: Hawaii"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51445.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcaccata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205374                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 28 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205374
+VERSION     AY205374.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="28"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Chile: Easter Island"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51446.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205390                 621 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 49 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205390
+VERSION     AY205390.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="49"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="French Polynesia: Marquesas"
+     CDS             <1..>621
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51462.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg a
+//
+
+LOCUS       AY205375                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 29 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205375
+VERSION     AY205375.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="29"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Chile: Easter Island"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51447.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205376                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 31 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205376
+VERSION     AY205376.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="31"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="USA: Hawaii"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51448.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205377                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 32 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205377
+VERSION     AY205377.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="32"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="USA: Hawaii"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51449.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205378                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 33 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205378
+VERSION     AY205378.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="33"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="USA: Hawaii"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51450.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205379                 612 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 34 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205379
+VERSION     AY205379.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="34"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Kiribati: Kiritimati"
+     CDS             <1..>612
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51451.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag ga
+//
+
+LOCUS       AY205380                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 35 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205380
+VERSION     AY205380.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="35"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="French Polynesia: Marquesas"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51452.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205381                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 36 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205381
+VERSION     AY205381.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="36"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Madagascar"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51453.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205382                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 37 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205382
+VERSION     AY205382.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="37"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Madagascar"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51454.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205383                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 38 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205383
+VERSION     AY205383.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="38"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Madagascar"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51455.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205384                 621 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 41 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205384
+VERSION     AY205384.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="41"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Japan"
+     CDS             <1..>621
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51456.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg a
+//
+
+LOCUS       AY205385                 620 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 44 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205385
+VERSION     AY205385.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 620)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 620)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="44"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Kiribati: Kiritimati"
+     CDS             <1..>620
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51457.1"
+                     /translation="HLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLGMVYA
+                     MIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQW
+                     ETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAG
+                     FTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPR"
+ORIGIN      
+        1 acatctattc tgattttttg gtcacccgga agtctacatc ctaattctac caggatttgg
+       61 tatgatttca cacgttatag ctcactactc aggaaagcga gaaccctttg gatatttggg
+      121 tatggtttat gcaatgattg ctataggaat actaggattt ttagtatgag ctcatcatat
+      181 gtttacagta ggaatggacg tagacacacg agcatacttc accgctgcaa caatgataat
+      241 tgccgtacca acaggaatta aggtttttag atgaatggca acactccaag gatcaaatct
+      301 acagtgagaa accccactac tatgagccct gggatttgtt tttctattta cattaggagg
+      361 actaactggg attgttctag ctaattcctc aattgacgtt gtactacacg acacttacta
+      421 cgtggtagct cacttccatt atgtactatc aatgggagcc gtctttgcaa tttttgcagg
+      481 atttacccac tggtttcctc tattttcagg ttacaaccta caccctctat gaggaaaggt
+      541 gcacttcttt attatgttta ttggagtcaa tctaacattc ttcccacaac actttctagg
+      601 actagctgga atgccacgac
+//
+
+LOCUS       AY205386                 615 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 45 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205386
+VERSION     AY205386.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="45"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="French Polynesia: Marquesas"
+     CDS             <1..>615
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51458.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGL"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gacta
+//
+
+LOCUS       AY205387                 622 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 46 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205387
+VERSION     AY205387.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..622
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="46"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="French Polynesia: Marquesas"
+     CDS             <1..>622
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51459.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aa
+//
+
+LOCUS       AY205388                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 47 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205388
+VERSION     AY205388.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="47"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="French Polynesia: Marquesas"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51460.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205389                 603 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 48 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205389
+VERSION     AY205389.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="48"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="French Polynesia: Marquesas"
+     CDS             <1..>603
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51461.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQH"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cac
+//
+
+LOCUS       AY205391                 621 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 50 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205391
+VERSION     AY205391.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="50"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="French Polynesia: Marquesas"
+     CDS             <1..>621
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51463.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg a
+//
+
+LOCUS       AY205392                 620 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 51 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205392
+VERSION     AY205392.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 620)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 620)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="51"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Chile: Easter Island"
+     CDS             <1..>620
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51464.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg
+//
+
+LOCUS       AY205393                 627 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 52 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205393
+VERSION     AY205393.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 627)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 627)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..627
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="52"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Chile: Easter Island"
+     CDS             <1..>627
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51465.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMP"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgcca
+//
+
+LOCUS       AY205394                 621 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 53 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205394
+VERSION     AY205394.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="53"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Philippines"
+     CDS             <1..>621
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51466.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg a
+//
+
+LOCUS       AY205395                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 56 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205395
+VERSION     AY205395.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="56"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Papua New Guinea"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51467.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205396                 619 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 57 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205396
+VERSION     AY205396.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 619)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 619)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..619
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="57"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Papua New Guinea"
+     CDS             <1..>619
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51468.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLA"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctg
+//
+
+LOCUS       AY205397                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 58 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205397
+VERSION     AY205397.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="58"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Papua New Guinea"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51469.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205398                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 60 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205398
+VERSION     AY205398.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="60"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Madagascar"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51470.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205399                 622 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 61 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205399
+VERSION     AY205399.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..622
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="61"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Oman"
+     CDS             <1..>622
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51471.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aa
+//
+
+LOCUS       AY205400                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 62 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205400
+VERSION     AY205400.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Reunion"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51472.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205401                 618 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 63 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205401
+VERSION     AY205401.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 618)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="63"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Reunion"
+     CDS             <1..>618
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51473.1"
+                     /translation="HLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLGMVYA
+                     MIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQW
+                     ETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAG
+                     FTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPR"
+ORIGIN      
+        1 acatctattc tgattttttg gtcacccgga agtctacatc ctaattctac caggatttgg
+       61 tatgatttca cacgttatag ctcactactc aggaaagcga gaaccctttg gatatttggg
+      121 tatggtttat gcaatgattg ctataggaat actaggattt ttagtatgag ctcatcatat
+      181 gtttacagta ggaatggacg tagacacacg agcatacttc accgctgcaa caatgataat
+      241 tgccgtacca acaggaatta aggtttttag atgaatggca acactccaag gatcaaatct
+      301 acagtgagaa accccactac tatgagccct gggatttgtt tttctattta cattaggagg
+      361 actaactggg attgttctag ctaattcctc aattgacgtt gtactacacg acacttacta
+      421 cgtggtagct cacttccatt atgtactatc aatgggagcc gtctttgcaa tttttgcagg
+      481 atttacccac tggtttcctc tattttcagg ttacaaccta caccctctat gaggaaaggt
+      541 gcacttcttt attatgttta ttggagtcaa tctaacattc ttcccacaac actttctagg
+      601 actagctgga atgccacg
+//
+
+LOCUS       AY205402                 632 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 64 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205402
+VERSION     AY205402.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 632)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="64"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Reunion"
+     CDS             <1..>632
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51474.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRR"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cg
+//
+
+LOCUS       AY205403                 611 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 65 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205403
+VERSION     AY205403.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 611)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 611)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..611
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="65"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Reunion"
+     CDS             <1..>611
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51475.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag g
+//
+
+LOCUS       AY205404                 620 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 66 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205404
+VERSION     AY205404.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 620)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 620)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="66"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Reunion"
+     CDS             <1..>620
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51476.1"
+                     /translation="HLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLGMVYA
+                     MIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQW
+                     ETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAG
+                     FTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPR"
+ORIGIN      
+        1 acatctattc tgattttttg gtcacccgga agtctacatc ctaattctac caggatttgg
+       61 tatgatttca cacgttatag ctcactactc aggaaagcga gaaccctttg gatatttggg
+      121 tatggtttat gcaatgattg ctataggaat actaggattt ttagtatgag ctcatcatat
+      181 gtttacagta ggaatggacg tagacacacg agcatacttc accgctgcaa caatgataat
+      241 tgccgtacca acaggaatta aggtttttag atgaatggca acactccaag gatcaaatct
+      301 acagtgagaa accccactac tatgagccct gggatttgtt tttctattta cattaggagg
+      361 actaactggg attgttctag ctaattcctc aattgacgtt gtactacacg acacttacta
+      421 cgtggtagct cacttccatt atgtactatc aatgggagcc gtctttgcaa tttttgcagg
+      481 atttacccac tggtttcctc tattttcagg ttacaaccta caccctctat gaggaaaggt
+      541 gcacttcttt attatgttta ttggagtcaa tctaacattc ttcccacaac actttctagg
+      601 actagctgga atgccacgac
+//
+
+LOCUS       AY205405                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 88 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205405
+VERSION     AY205405.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="88"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="USA: Hawaii"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51477.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattagggg gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205406                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 89 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205406
+VERSION     AY205406.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="89"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="USA: Hawaii"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51478.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattagggg gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205407                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 90 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205407
+VERSION     AY205407.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="90"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Guam"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51479.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattagggg gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205408                 635 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 91 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205408
+VERSION     AY205408.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 635)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 635)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..635
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="91"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Guam"
+     CDS             <1..>635
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51480.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRR"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattagggg gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgata
+//
+
+LOCUS       AY205409                 631 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 92 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205409
+VERSION     AY205409.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="92"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Philippines"
+     CDS             <1..>631
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51481.1"
+                     /translation="XHLXWXFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLGMVY
+                     AMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQ
+                     WETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFA
+                     GFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 tcamcatctw wtctgatktt ttggtcaccc ggaagtctac atcctaattc taccaggatt
+       61 tggtatgatt tcacacgtta tagctcacta ctcaggaaag cgagaaccct ttggatattt
+      121 gggtatggtt tatgcaatga ttgctatagg aatactagga tttttagtat gagctcatca
+      181 tatgtttaca gtaggaatgg acgtagacac acgagcatac ttcaccgctg caacaatgat
+      241 aattgccgta ccaacaggaa ttaaggtttt tagatgaatg gcaacactcc aaggatcaaa
+      301 tctacagtga gaaaccccac tactatgagc cctgggattt gtttttctat ttacattagg
+      361 aggactaact gggattgttc tagctaattc ctcaattgac gttgtactac acgacaccta
+      421 ctacgtggta gctcacttcc attatgtact atcaatggga gccgtctttg caatttttgc
+      481 aggatttacc cactggtttc ctctattttc aggttacaac ctacaccctc tatgaggaaa
+      541 ggtgcacttc tttattatgt ttattggagt caatctaaca ttcttcccac aacactttct
+      601 aggactagct ggaatgccac gacgatactc a
+//
+
+LOCUS       AY205410                 611 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 93 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205410
+VERSION     AY205410.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 611)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 611)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..611
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="93"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Philippines"
+     CDS             <1..>611
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51482.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacctact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag g
+//
+
+LOCUS       AY205411                 622 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 94 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205411
+VERSION     AY205411.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..622
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="94"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Papua New Guinea"
+     CDS             <1..>622
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51483.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacctact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aa
+//
+
+LOCUS       AY205412                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 95 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205412
+VERSION     AY205412.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="95"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Philippines"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51484.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRXS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt gggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatmctca
+//
+
+LOCUS       AY205413                 638 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 96 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205413
+VERSION     AY205413.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 638)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 638)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..638
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="96"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Philippines"
+     CDS             <1..>638
+                     /codon_start=3
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51485.1"
+                     /translation="LFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLGM
+                     VYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSN
+                     LQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFAI
+                     FAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRXS"
+ORIGIN      
+        1 tcctatttca acatctattc tgattttttg gtcacccgga agtctacatc ctaattctac
+       61 caggatttgg tatgatttca cacgttatag ctcactactc aggaaagcga gaaccctttg
+      121 gatatttggg tatggtttat gcaatgattg ctataggaat actaggattt ttagtatgag
+      181 ctcatcatat gtttacagtg ggaatggacg tagacacacg agcatacttc accgctgcaa
+      241 caatgataat tgccgtacca acaggaatta aggtttttag atgaatggca acactccaag
+      301 gatcaaatct acagtgagaa accccactac tatgagccct gggatttgtt tttctattta
+      361 cattaggagg actaactggg attgttctag ctaattcctc aattgacgtt gtactacacg
+      421 acacttacta cgtggtagct cacttccatt atgtactatc aatgggagcc gtctttgcaa
+      481 tttttgcagg atttacccac tggtttcctc tattttcagg ttacaaccta caccctctat
+      541 gaggaaaggt gcacttcttt attatgttta ttggagtcaa tctaacattc ttcccacaac
+      601 actttctagg actagctgga atgccacgac gatwctca
+//
+
+LOCUS       AY205414                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 97 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205414
+VERSION     AY205414.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="97"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Philippines"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51486.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acgttaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205415                 611 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 98 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205415
+VERSION     AY205415.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 611)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 611)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..611
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="98"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Papua New Guinea"
+     CDS             <1..>611
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51487.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acgttaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag g
+//
+
+LOCUS       AY205416                 603 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 99 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205416
+VERSION     AY205416.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="99"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Japan"
+     CDS             <1..>603
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51488.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQH"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acgttaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cac
+//
+
+LOCUS       AY205417                 622 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 100 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205417
+VERSION     AY205417.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..622
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="100"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Philippines"
+     CDS             <1..>622
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51489.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcgtactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaactcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccac tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aa
+//
+
+LOCUS       AY205418                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 101 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205418
+VERSION     AY205418.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="101"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Philippines"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51490.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVXAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcgtactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaactcct caattgacgt tgtactacac
+      421 gacacttact acgtggnagc tcacttccac tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205419                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 102 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205419
+VERSION     AY205419.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="102"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="USA: Hawaii"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51491.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattagggg gactaactgg aattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205420                 622 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 103 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205420
+VERSION     AY205420.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..622
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="103"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Kiribati: Kiritimati"
+     CDS             <1..>622
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51492.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattagggg gactaactgg aattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aa
+//
+
+LOCUS       AY205421                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 118 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205421
+VERSION     AY205421.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="118"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Madagascar"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51493.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaacc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtgctat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205422                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 121 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205422
+VERSION     AY205422.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="121"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Japan"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51494.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRXS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccac tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatnctca
+//
+
+LOCUS       AY205423                 622 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 122 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205423
+VERSION     AY205423.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 622)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..622
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="122"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Japan"
+     CDS             <1..>622
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51495.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccac tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aa
+//
+
+LOCUS       AY205424                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 123 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205424
+VERSION     AY205424.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="123"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Japan"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51496.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMXRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccac tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgscacga cgatactca
+//
+
+LOCUS       AY205425                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 124 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205425
+VERSION     AY205425.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="124"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Japan"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51497.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccac tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205426                 621 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 125 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205426
+VERSION     AY205426.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="125"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Kiribati: Kiritimati"
+     CDS             <1..>621
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51498.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg aattgtccta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg a
+//
+
+LOCUS       AY205427                 579 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 126 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205427
+VERSION     AY205427.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 579)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 579)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="126"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Kiribati: Kiritimati"
+     CDS             <1..>579
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51499.1"
+                     /translation="GHPEVYILILPGFGMISHVIAHYSGKREPFGYLGMVYAMIAIGI
+                     LGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGSNLQWETPLLW
+                     ALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFAIFAGFTHWFP
+                     LFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFL"
+ORIGIN      
+        1 ggtcacccgg aagtctacat cctaattcta ccaggatttg gtatgatttc acacgttata
+       61 gctcactact caggaaagcg agaacccttt ggatatttgg gtatggttta tgcaatgatt
+      121 gctataggaa tactaggatt tttagtatga gctcatcata tgtttacagt aggaatggac
+      181 gtagacacac gagcatactt caccgctgca acaatgataa ttgccgtacc aacaggaatt
+      241 aaggttttta gatgaatggc aacactccaa ggatcaaatc tacagtgaga aaccccacta
+      301 ctatgagccc tgggatttgt ttttctattt acattaggag gactaactgg aattgtccta
+      361 gctaattcct caattgacgt tgtactacac gacacttact acgtggtagc tcacttccat
+      421 tatgtactat caatgggagc cgtctttgca atttttgcag gatttaccca ctggtttcct
+      481 ctattttcag gttacaacct acaccctcta tgaggaaagg tgcacttctt tattatgttt
+      541 attggagtca atctaacatt cttcccacaa cactttcta
+//
+
+LOCUS       AY205428                 607 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 127 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205428
+VERSION     AY205428.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 607)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 607)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..607
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="127"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Kiribati: Kiritimati"
+     CDS             <1..>607
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51500.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHF"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg aattgtccta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttc
+//
+
+LOCUS       AY205429                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 129 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205429
+VERSION     AY205429.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="129"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Japan"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51501.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg aattgtccta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205430                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 130 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205430
+VERSION     AY205430.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="130"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Japan"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51502.1"
+                     /translation="ILXQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatytc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg aattgtccta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205431                 627 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 142 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205431
+VERSION     AY205431.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 627)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 627)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..627
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="142"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Chile: Easter Island"
+     CDS             <1..>627
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51503.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMP"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcgatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgcca
+//
+
+LOCUS       AY205432                 627 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 143 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205432
+VERSION     AY205432.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 627)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 627)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..627
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="143"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Chile: Easter Island"
+     CDS             <1..>627
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51504.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMP"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgtcata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tctagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgcca
+//
+
+LOCUS       AY205433                 620 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 144 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205433
+VERSION     AY205433.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 620)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 620)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="144"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Chile: Easter Island"
+     CDS             <1..>620
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51505.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAG"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgtcata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg
+//
+
+LOCUS       AY205434                 618 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 145 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205434
+VERSION     AY205434.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 618)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="145"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Chile: Easter Island"
+     CDS             <1..>618
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51506.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLA"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacaatgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacttact acgtggtagc ccacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagct
+//
+
+LOCUS       AY205435                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 146 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205435
+VERSION     AY205435.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="146"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Philippines"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51507.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact cgggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacctact acgtggtagc tcactttcat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atttaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205436                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 147 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205436
+VERSION     AY205436.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="147"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Philippines"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51508.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acaatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttttattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacctact acgtggtagc tcactttcat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atttaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+
+LOCUS       AY205437                 639 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Tripneustes gratilla isolate 148 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY205437
+VERSION     AY205437.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes gratilla (Hawaiian sea urchin)
+  ORGANISM  Tripneustes gratilla
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Phylogeography of the pantropical sea urchin Tripneustes:
+            contrasting patterns of population structure between oceans
+  JOURNAL   Evolution 57 (9), 2026-2036 (2003)
+   PUBMED   14575324
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lessios,H.A., Kane,J. and Robertson,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2002) Smithsonian Tropical Research Institute,
+            Unit 0948 APO AA 34002-0948, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Tripneustes gratilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="148"
+                     /db_xref="taxon:7673"
+                     /geo_loc_name="Madagascar"
+     CDS             <1..>639
+                     /codon_start=1
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAP51509.1"
+                     /translation="ILFQHLFWFFGHPEVYILILPGFGMISHVIAHYSGKREPFGYLG
+                     MVYAMIAIGILGFLVWAHHMFTVGMDVDTRAYFTAATMIIAVPTGIKVFSWMATLQGS
+                     NLQWETPLLWALGFVFLFTLGGLTGIVLANSSIDVVLHDTYYVVAHFHYVLSMGAVFA
+                     IFAGFTHWFPLFSGYNLHPLWGKVHFFIMFIGVNLTFFPQHFLGLAGMPRRYS"
+ORIGIN      
+        1 atcctatttc aacatctatt ctgatttttt ggtcacccgg aagtctacat cctaattcta
+       61 ccaggatttg gtatgatttc acacgttata gctcactact caggaaagcg agaacccttt
+      121 ggatatttgg gtatggttta tgcaatgatt gctataggaa tactaggatt tttagtatga
+      181 gctcatcata tgtttacagt aggaatggac gtagacacac gagcatactt caccgctgca
+      241 acgatgataa ttgccgtacc aacaggaatt aaggttttta gatgaatggc aacactccaa
+      301 ggatcaaatc tacagtgaga aaccccacta ctatgagccc tgggatttgt ttttctattt
+      361 acattaggag gactaactgg gattgttcta gctaattcct caattgacgt tgtactacac
+      421 gacacctact acgtggtagc tcacttccat tatgtactat caatgggagc cgtctttgca
+      481 atttttgcag gatttaccca ctggtttcct ctattttcag gttacaacct acaccctcta
+      541 tgaggaaagg tgcacttctt tattatgttt attggagtca atctaacatt cttcccacaa
+      601 cactttctag gactagctgg aatgccacga cgatactca
+//
+

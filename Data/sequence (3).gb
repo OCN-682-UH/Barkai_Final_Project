@@ -1,0 +1,198 @@
+LOCUS       MN683991                 658 bp    DNA     linear   INV 26-AUG-2020
+DEFINITION  Tripneustes ventricosus voucher TVB_0133 cytochrome oxidase subunit
+            1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   MN683991
+VERSION     MN683991.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes ventricosus
+  ORGANISM  Tripneustes ventricosus
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Collin,R., Venera-Ponton,D.E., Driskell,A.C., Macdonald,K.S.,
+            Geyer,L.B., Lessios,H.A. and Boyle,M.J.
+  TITLE     DNA barcoding of echinopluteus larvae uncovers cryptic diversity in
+            neotropical echinoids
+  JOURNAL   Invertebr. Biol. 139 (2) (2020) In press
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Collin,R., Venera-Ponton,D.E., Driskell,A.C., Boyle,M.J. and
+            Lessios,H.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2019) Collin Lab, Smithsonian Tropical Research
+            Institute, Building 356, Amador Causeway, Naos Island, Panama,
+            Panama Apartado Postal 0843-00153, Panama
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Tripneustes ventricosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TVB_0133"
+                     /db_xref="BOLD:ECHND108-19.COI-5P"
+                     /db_xref="taxon:105367"
+                     /geo_loc_name="Belize: Caribbean, Carrie Bow Cay"
+                     /collection_date="05-Sep-1993"
+                     /collected_by="H.A. Lessios & G. Hendler"
+                     /identified_by="Laura Geyer"
+                     /PCR_primers="fwd_seq: ggtcaacaaatcataaagayatygg, rev_seq:
+                     taaacttcagggtgaccaaaraayca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QNH92370.1"
+                     /translation="TLYLIFGAWAGMVGTAMSVIIRAELAQPGSLLNDDQIYNVVVTA
+                     HALVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLVPPSFILLLASAGV
+                     ESGAGTGWTIYPPLSSNIAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGM
+                     SFDRLPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNINTTFFDPAGGGDPILFQHL
+                     F"
+ORIGIN      
+        1 aacactctat ttaatcttcg gagcctgagc cggaatggta ggaacagcca tgagcgtaat
+       61 tatacgagcc gaactagctc aaccgggatc tctcttaaaa gacgaccaaa tatacaaagt
+      121 agtagttacc gcacacgccc tagtaatgat cttttttatg gtaatgccaa taatgattgg
+      181 aggatttggt aaatgactca ttccactaat gattggtgcc ccagatatgg ctttcccccg
+      241 aatgaaaaaa atgagttttt gactcgttcc tccatctttt attcttcttc tagcctctgc
+      301 cggagttgaa agaggagcag gaacaggatg aacaatctac ccaccacttt caagaaaaat
+      361 tgcgcacgcg ggaggatccg ttgacctagc tattttttca cttcaccttg ccggtgcttc
+      421 ctctattcta gcctccatta attttatcac aacaattata aatatgcgaa caccaggaat
+      481 gtcttttgac cgacttccac tattcgtatg atccgtattt gtgactgcat tcctactctt
+      541 gctttcttta ccagtcctag caggagcaat caccatgctg ttaacagacc gaaacattaa
+      601 tacaaccttt tttgacccag caggaggggg agaccctatt ttatttcaac atctattc
+//
+
+LOCUS       MN683990                 658 bp    DNA     linear   INV 26-AUG-2020
+DEFINITION  Tripneustes ventricosus voucher THSB0001 cytochrome oxidase subunit
+            1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   MN683990
+VERSION     MN683990.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes ventricosus
+  ORGANISM  Tripneustes ventricosus
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Collin,R., Venera-Ponton,D.E., Driskell,A.C., Macdonald,K.S.,
+            Geyer,L.B., Lessios,H.A. and Boyle,M.J.
+  TITLE     DNA barcoding of echinopluteus larvae uncovers cryptic diversity in
+            neotropical echinoids
+  JOURNAL   Invertebr. Biol. 139 (2) (2020) In press
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Collin,R., Venera-Ponton,D.E., Driskell,A.C., Boyle,M.J. and
+            Lessios,H.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2019) Collin Lab, Smithsonian Tropical Research
+            Institute, Building 356, Amador Causeway, Naos Island, Panama,
+            Panama Apartado Postal 0843-00153, Panama
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Tripneustes ventricosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="THSB0001"
+                     /db_xref="BOLD:ECHND104-19.COI-5P"
+                     /db_xref="taxon:105367"
+                     /geo_loc_name="Panama: Caribbean, Nalunega, San Blas"
+                     /collection_date="26-Aug-1997"
+                     /collected_by="A. Calderon"
+                     /identified_by="Laura Geyer"
+                     /PCR_primers="fwd_seq: ggtcaacaaatcataaagayatygg, rev_seq:
+                     taaacttcagggtgaccaaaraayca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QNH92369.1"
+                     /translation="TLYLIFGAWAGMVGTAMSVIIRAELAQPGSLLNDDQIYNVVVTA
+                     HALVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLVPPSFILLLASAGV
+                     ESGAGTGWTIYPPLSSNIAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGM
+                     SFDRLPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNINTTFFDPAGGGDPILFQHL
+                     F"
+ORIGIN      
+        1 aacactctat ttaatcttyg gagcctgagc cggaatggta ggaacagcca tgagcgtaat
+       61 tatacgagcc gaactagctc aaccgggatc tctcttaaaa gacgaccaaa tatacaaagt
+      121 agtagttacc gcacacgccc tagtaatgat cttttttatg gtaatgccaa taatgattgg
+      181 aggatttggt aaatgactca ttccactaat gattggtgcc ccagatatgg ctttcccccg
+      241 aatgaaaaaa atgagttttt gactcgttcc tccatctttt attcttcttc tagcctctgc
+      301 cggagttgaa agaggagcag gaacaggatg aacaatctac ccaccacttt caagaaaaat
+      361 tgcgcacgcg ggaggatccg ttgacctagc tattttttca cttcaccttg ccggtgcttc
+      421 ctctattcta gcctccatta attttatcac aacaattata aatatgcgaa caccaggaat
+      481 gtcttttgac cgacttccac tattcgtatg atccgtattt gtgactgcat tcctactctt
+      541 gctttcttta ccagtcctag caggagcaat caccatgctg ttaacagacc gaaacattaa
+      601 tacaaccttt tttgacccag caggaggggg agaccctatt ttatttcaac atctattc
+//
+
+LOCUS       MW125281                 658 bp    DNA     linear   INV 23-NOV-2021
+DEFINITION  Tripneustes ventricosus voucher USNM:IZ:1449791 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   MW125281
+VERSION     MW125281.1
+DBLINK      BioProject: PRJNA421480
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes ventricosus
+  ORGANISM  Tripneustes ventricosus
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Pappalardo,P., Collins,A.G., Pagenkopp Lohan,K.M., Hanson,K.M.,
+            Truskey,S.B., Jaeckle,W., Ames,C.L., Goodheart,J.A., Bush,S.L.,
+            Biancani,L.M., Strong,E.E., Vecchione,M., Harasewych,M.G., Reed,K.,
+            Lin,C., Hartil,E.C., Whelpley,J., Blumberg,J., Matterson,K.,
+            Redmond,N.E., Becker,A., Boyle,M.J. and Osborn,K.J.
+  TITLE     The role of taxonomic expertise in interpretation of metabarcoding
+            studies
+  JOURNAL   ICES J Mar Sci (2021) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Pappalardo,P., Redmond,N.E., Collins,A.G., Hanson,K.M., Jaekle,W.,
+            Boyle,M.J. and Osborn,K.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-OCT-2020) Smithsonian Institution, 10th and
+            Constitution Ave NW, Washington, DC 20002, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Tripneustes ventricosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="USNM:IZ:1449791"
+                     /db_xref="taxon:105367"
+                     /geo_loc_name="Atlantic Ocean: Gulf Stream off Fort
+                     Pierce"
+                     /collection_date="16-Aug-2017"
+                     /PCR_primers="fwd_name: jgLCO1490, fwd_seq:
+                     tntcnacnaaycayaargayattgg, rev_name: jgHCO2198, rev_seq:
+                     tanacytcnggrtgnccraaraayca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="QWV43577.1"
+                     /translation="TLYLIFGAWAGMVGTAMSVIIRAELAQPGSLLNDDQIYNVVVTA
+                     HALVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLVPPSFILLLASAGV
+                     ESGAGTGWTIYPPLSSNIAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGM
+                     SFDRLPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNINTTFFDPAGGGDPILFQHL
+                     F"
+ORIGIN      
+        1 aacactctat ttaatcttcg gagcctgagc cggaatggta ggaacagcca tgagcgtaat
+       61 tatacgagcc gaactagctc aaccgggatc tctcttaaaa gacgaccaaa tatacaaagt
+      121 agtagttacc gcacacgccc tagtaatgat cttttttatg gtaatgccaa taatgattgg
+      181 aggatttggt aaatgactca ttccactaat gattggtgcc ccagatatgg ctttcccccg
+      241 aatgaaaaaa atgagttttt gactcgttcc tccatctttt attcttcttc tagcctctgc
+      301 cggagttgaa agaggagcag gaacaggatg aacaatctac ccaccacttt caagaaaaat
+      361 tgcgcacgcg ggaggatccg ttgacctagc tattttttca cttcaccttg ccggtgcttc
+      421 ctctattcta gcctccatta attttatcac aacaattata aatatgcgaa caccaggaat
+      481 gtcttttgac cgacttccac tattcgtatg atccgtattt gtgactgcat tcctactctt
+      541 gctttcttta ccagtcctag caggagcaat caccatgctg ttaacagacc gaaacattaa
+      601 tacaaccttt tttgacccag caggaggggg agaccctatt ttatttcaac atctattc
+//
+

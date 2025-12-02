@@ -1,0 +1,194 @@
+LOCUS       MN683989                 658 bp    DNA     linear   INV 26-AUG-2020
+DEFINITION  Tripneustes depressus voucher TDPA0006 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MN683989
+VERSION     MN683989.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes depressus
+  ORGANISM  Tripneustes depressus
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Collin,R., Venera-Ponton,D.E., Driskell,A.C., Macdonald,K.S.,
+            Geyer,L.B., Lessios,H.A. and Boyle,M.J.
+  TITLE     DNA barcoding of echinopluteus larvae uncovers cryptic diversity in
+            neotropical echinoids
+  JOURNAL   Invertebr. Biol. 139 (2) (2020) In press
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Collin,R., Venera-Ponton,D.E., Driskell,A.C., Boyle,M.J. and
+            Lessios,H.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2019) Collin Lab, Smithsonian Tropical Research
+            Institute, Building 356, Amador Causeway, Naos Island, Panama,
+            Panama Apartado Postal 0843-00153, Panama
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Tripneustes depressus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TDPA0006"
+                     /db_xref="BOLD:ECHND103-19.COI-5P"
+                     /db_xref="taxon:105366"
+                     /geo_loc_name="Taboga Island"
+                     /collection_date="27-Dec-2013"
+                     /identified_by="Laura Geyer"
+                     /PCR_primers="fwd_seq: ggtcaacaaatcataaagayatygg, rev_seq:
+                     taaacttcagggtgaccaaaraayca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QNH92368.1"
+                     /translation="TLYLIFGAWAGMVGTAMSVIIRAELAQPGSLLNDDQIYNVVVTA
+                     HALVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLVPPSFILLLASAGV
+                     ESGAGTGWTIYPPLSSNIAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGM
+                     SFDRLPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNINTTFFDPAGGGDPILFQHL
+                     F"
+ORIGIN      
+        1 aaccctctat ttaatcttcg gagcctgagc cggaatggta ggaacagcca tgagtgtaat
+       61 tatacgagcc gaactagctc aaccgggatc tcttttaaaa gacgaccaaa tatacaaagt
+      121 agtcgttact gcacatgccc tagtaatgat cttttttatg gtaatgccaa taatgattgg
+      181 aggatttggt aaatgactca ttccactaat gattggcgct ccagatatgg cttttccccg
+      241 aatgaaaaaa atgagctttt gacttgttcc accatctttt atactccttt tagcctccgc
+      301 cggagttgaa agaggagcag gaacaggatg aacaatctac ccaccacttt caagaaaaat
+      361 tgcacacgcg gggggatctg ttgacttggc catcttttca cttcatcttg ccggggcttc
+      421 ctctatttta gcctccatta acttcatcac aacaatcata aatatgcgaa caccaggaat
+      481 gtcttttgac cgacttccac tatttgtatg gtctgtattt gttacggcat ttctcctctt
+      541 gctttcttta ccagttctag caggagcaat caccatgctg ctgacggacc gaaacattaa
+      601 tacaaccttc ttcgacccag caggcggagg agatcctatc ctatttcaac atctattc
+//
+
+LOCUS       MN683988                 658 bp    DNA     linear   INV 26-AUG-2020
+DEFINITION  Tripneustes depressus voucher TDPA0005 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MN683988
+VERSION     MN683988.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes depressus
+  ORGANISM  Tripneustes depressus
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Collin,R., Venera-Ponton,D.E., Driskell,A.C., Macdonald,K.S.,
+            Geyer,L.B., Lessios,H.A. and Boyle,M.J.
+  TITLE     DNA barcoding of echinopluteus larvae uncovers cryptic diversity in
+            neotropical echinoids
+  JOURNAL   Invertebr. Biol. 139 (2) (2020) In press
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Collin,R., Venera-Ponton,D.E., Driskell,A.C., Boyle,M.J. and
+            Lessios,H.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2019) Collin Lab, Smithsonian Tropical Research
+            Institute, Building 356, Amador Causeway, Naos Island, Panama,
+            Panama Apartado Postal 0843-00153, Panama
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Tripneustes depressus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TDPA0005"
+                     /db_xref="BOLD:ECHND102-19.COI-5P"
+                     /db_xref="taxon:105366"
+                     /geo_loc_name="Panama: PACIFIC (EAST), PACHECA"
+                     /collection_date="06-Mar-2013"
+                     /collected_by="J. JARA"
+                     /identified_by="Laura Geyer"
+                     /PCR_primers="fwd_seq: ggtcaacaaatcataaagayatygg, rev_seq:
+                     taaacttcagggtgaccaaaraayca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QNH92367.1"
+                     /translation="TLYLIFGAWAGMVGTAMSVIIRAELAQPGSLLNDDQIYNVVVTA
+                     HALVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLVPPSFILLLASAGV
+                     ESGAGTGWTIYPPLSSNIAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGM
+                     SFDRLPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNINTTFFDPAGGGDPILFQHL
+                     F"
+ORIGIN      
+        1 aaccctctat ttaatcttcg gagcctgagc cggaatggta ggaacagcca tgagtgtaat
+       61 tatacgagcc gaactagctc aaccgggatc tcttttaaaa gacgaccaaa tatacaaagt
+      121 agtcgttact gcacacgccc tagtaatgat cttttttatg gtaatgccaa taatgattgg
+      181 aggatttggt aaatgactca ttccactaat gattggcgct ccagatatgg ctttcccccg
+      241 aatgaaaaaa atgagctttt gacttgttcc accatctttt atactccttt tagcctccgc
+      301 cggagttgaa agaggagcag gaacaggatg aacaatctac ccaccacttt caagaaaaat
+      361 tgcacacgcg gggggatccg ttgacttggc catcttttcg cttcatctcg ccggggcttc
+      421 ctctatttta gcctccatta acttcatcac aacaatcata aatatgcgaa caccaggaat
+      481 gtcttttgac cgacttccac tatttgtatg gtctgtattt gttacggcat ttctcctctt
+      541 gctttcttta ccagttctag caggagcaat caccatgctg ctgacggacc gaaacattaa
+      601 tacaaccttc ttcgacccag caggcggggg agatcctatc ctatttcaac atctattc
+//
+
+LOCUS       MN683987                 658 bp    DNA     linear   INV 26-AUG-2020
+DEFINITION  Tripneustes depressus voucher TDPA0004 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MN683987
+VERSION     MN683987.1
+KEYWORDS    .
+SOURCE      mitochondrion Tripneustes depressus
+  ORGANISM  Tripneustes depressus
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Temnopleuroida;
+            Toxopneustidae; Tripneustes.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Collin,R., Venera-Ponton,D.E., Driskell,A.C., Macdonald,K.S.,
+            Geyer,L.B., Lessios,H.A. and Boyle,M.J.
+  TITLE     DNA barcoding of echinopluteus larvae uncovers cryptic diversity in
+            neotropical echinoids
+  JOURNAL   Invertebr. Biol. 139 (2) (2020) In press
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Collin,R., Venera-Ponton,D.E., Driskell,A.C., Boyle,M.J. and
+            Lessios,H.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2019) Collin Lab, Smithsonian Tropical Research
+            Institute, Building 356, Amador Causeway, Naos Island, Panama,
+            Panama Apartado Postal 0843-00153, Panama
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Tripneustes depressus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TDPA0004"
+                     /db_xref="BOLD:ECHND101-19.COI-5P"
+                     /db_xref="taxon:105366"
+                     /geo_loc_name="Panama: PACIFIC (EAST), PACHECA"
+                     /collection_date="06-Oct-2012"
+                     /collected_by="A. CALDERON"
+                     /identified_by="Laura Geyer"
+                     /PCR_primers="fwd_seq: ggtcaacaaatcataaagayatygg, rev_seq:
+                     taaacttcagggtgaccaaaraayca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=9
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QNH92366.1"
+                     /translation="TLYLIFGAWAGMVGTAMSVIIRAELAQPGSLLNDDQIYNVVVTA
+                     HALVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLVPPSFILLLASAGV
+                     ESGAGTGWTIYPPLSSNIAHAGGSVDLAIFSLHLAGASSILASINFITTIINMRTPGM
+                     SFDRLPLFVWSVFVTAFLLLLSLPVLAGAITMLLTDRNINTTFFDPAGGGDPILFQHL
+                     F"
+ORIGIN      
+        1 aaccctctat ttaatcttcg gagcctgagc cggaatggta ggaacagcca tgagtgtaat
+       61 tatacgagcc gaactagctc aaccgggatc tcttttaaaa gacgaccaaa tatacaaagt
+      121 agtcgttact gcacacgccc tagtaatgat cttttttatg gtaatgccaa taatgattgg
+      181 aggatttggt aaatgactca ttccactaat gattggcgct ccagatatgg ctttcccccg
+      241 aatgaaaaaa atgagctttt gacttgttcc accatctttt atactccttt tagcctccgc
+      301 cggagttgaa agaggagcag gaacaggatg gacaatctac ccaccacttt caagaaaaat
+      361 tgcacacgcg gggggatccg ttgacttggc cattttttca cttcatcttg ccggggcttc
+      421 ctctatttta gcctccatca acttcatcac aacaatcata aatatgcgaa caccaggaat
+      481 gtcttttgac cgacttccac tatttgtatg gtctgtattt gttacggcat ttctcctctt
+      541 gctttcttta ccagttctag caggggcaat caccatgctg ctaacggacc gaaacattaa
+      601 tacaaccttc ttcgacccag caggcggggg agatcccatc ctatttcaac atctattc
+//
+
