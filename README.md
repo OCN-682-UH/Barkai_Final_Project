@@ -26,7 +26,6 @@ The core project files and data are organized as follows:
 │   ├── sequence (4).gb                    # Raw data
 │   ├── sequence (5).gb                    # Raw data
 │   └── sequence (6).gb                    # Raw data
-# Original data source files
 ├── **Output/**
 │   ├── structure_plot_simplified_mean_loc.png # Main Structure Plot (Figure 1)
 │   └── urchin_map_k3_final.png            # Geographic Map of Clusters (Figure 2)
