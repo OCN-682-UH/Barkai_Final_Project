@@ -17,21 +17,22 @@ The analysis confirms the presence of significant genetic structure.
 ## Repository Structure
 
 The core project files and data are organized as follows:
-├── **Data/**
-│   ├── Cleaned_Tripneustes_CO1_Data.csv   # Final curated dataset (222 sequences)
-│   ├── Final_Project_Data_Dictionary.csv  # Data Dictionary
-│   ├── sequence (1).gb                    # Raw data
-│   ├── sequence (2).gb                    # Raw data
-│   ├── sequence (3).gb                    # Raw data
-│   ├── sequence (4).gb                    # Raw data
-│   ├── sequence (5).gb                    # Raw data
-│   └── sequence (6).gb                    # Raw data
-├── **Output/**
-│   ├── structure_plot_simplified_mean_loc.png # Main Structure Plot (Figure 1)
-│   └── urchin_map_k3_final.png            # Geographic Map of Clusters (Figure 2)
-├── **Scripts/**
-│   ├── Final_Project.html                # Final knitted R Markdown report
-│   └── Final_Project.qmd                 # Final Quarto document
+├── Data/
+│   ├── Cleaned_Tripneustes_CO1_Data.csv           # Final curated dataset (222 sequences)
+│   ├── Final_Project_Data_Dictionary.csv          # Data Dictionary
+│   ├── sequence (1).gb                            # Raw data
+│   ├── sequence (2).gb                            # Raw data
+│   ├── sequence (3).gb                            # Raw data
+│   ├── sequence (4).gb                            # Raw data
+│   ├── sequence (5).gb                            # Raw data
+│   └── sequence (6).gb                            # Raw data
+├── Output/
+│   ├── structure_plot_simplified_mean_loc.png     # Main Structure Plot (Figure 1)
+│   └── urchin_map_k3_final.png                    # Geographic Map of Clusters (Figure 2)
+├── Scripts/
+│   ├── Final_Project.qmd                          # Final Quarto document
+│   └── Final_Project.html                         # Final knitted HTML report
+
 
 ---
 
