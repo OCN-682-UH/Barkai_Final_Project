@@ -14,7 +14,7 @@ format:
 
 # Introduction
 
-This document is for my final project on population genetics of *Tripneustes gratilla* with data received from [Genbank](https://www.ncbi.nlm.nih.gov/nuccore). A total of 222 unique GenBank submissions were curated for this project. Each entry was confirmed to contain both a high-quality Cytochrome Oxidase I (COI) sequence and corresponding geographic location data.
+This document is for my final project on population genetics of *Tripneustes gratilla* with data received from [GenBank](https://www.ncbi.nlm.nih.gov/nuccore). A total of 222 unique GenBank submissions were curated for this project. Each entry was confirmed to contain both a high-quality Cytochrome Oxidase I (COI) sequence and corresponding geographic location data.
 
 Photo of Collector Sea Urchin:
 
@@ -64,7 +64,7 @@ library(ape)        # For sequence data structure (as.DNAbin)
 library(adegenet)   # For DAPC and genind objects
 library(ade4)      # Underlying package for PCA/DAPC
 library(ggplot2)    # For plotting the final bar plot
-library(ggtext)     # For advanced text formatting (e.g., italics in titles)
+library(ggtext)     # For advanced text formatting
 
 ### Libraries for Output 3: Map
 library(sf)             # For working with spatial features
@@ -95,7 +95,7 @@ I loaded and cleaned this raw data using a script (ask author Leah Barkai for sc
     -   Removing all numbers and whitespace
     -   Converting to uppercase letters
     -   Removing non-DNA characters (kept only **A, C, G, T, N = unknown nucleotide**)
-    -   Keeping only sequences between **550–700 bp** Cleaned metadata by:
+    -   Keeping only sequences between **550–700 bp**
 -   Cleaned metadata by:
     -   Standardizing country names (correcting mislabeled regions)
     -   Ensuring the **Species** column existed even when missing
@@ -135,6 +135,8 @@ The following table serves as the **Data Dictionary**, defining the variables co
 This output provides an interactive representation of the cleaned T*ripneustes gratilla* sequence dataset, allowing for dynamic viewing, filtering, and sorting of the COI records and associated metadata.
 
 ```{r}
+#Libraries used: DT, htmltools
+
 # 1. Prepare data by shortening sequences for table display
 Data_Table <- Tripneustes_C01_data %>% # Table of Data 
   mutate(Sequence_Short = paste0(      # Creating new column to have first 50 sequences showing
@@ -173,11 +175,17 @@ Table 1. Sample locations were compiled from GenBank and published literature. T
 
 # Output #2: Genetic Structure Bar Plot
 
+This structure bar plot displays the average proportional ancestry of a population belonging to different genetic clusters ($K$), allowing visualization of the genetic differentiation or admixture among the sampled populations
+
 This section of code performs the Discriminant Analysis of Principal Components (DAPC), the main DNA analysis used to find the global genetic families. The goal is to first determine the optimal number of genetic clusters ($K$) by examining the 'elbow' in the BIC plot, and then to sort the urchins into their most likely number of genetic clusters, denoted by $K$. The final bar plot visually shows the percentage of each of these $K$ genetic families found at every sampled location, revealing the global population structure.
 
 [Code to align sequences:]{.underline}
 
 ```{r}
+#Used libraries: Biostrings to help with DNA sequences
+                 #msa for sequence alignment
+                 #ape for data structure
+
 # 1. Data Cleaning 
 dapc_df <- Tripneustes_C01_data %>% #Making a new data frame
 # Start with raw data frame
@@ -194,9 +202,12 @@ aln <- msa(seqs, method="ClustalW", substitutionMatrix=NULL, verbose=FALSE)
 
 [Code to make the elbow plot to find K:]{.underline}
 
+A elbow plot is a graph that helps you choose the best number of groups ($K$) for your data.
+
 ```{r}
 # Perform Multiple Sequence Alignment (MSA) using ClustalW
           # Does pairwise alignment which algins two sequences at a time then calculates a score to see how similar the pair is 
+
 bin <- as.DNAbin(aln) # Convert alignment output to DNAbin format (required for 'adegenet' package)
 
 # 3. Genind - object that is designed to hold indidivual genetic info alongside metadata
@@ -210,9 +221,7 @@ if (nInd(gen) != nrow(dapc_df)) #Checking if individual counts in genind match i
 var_sites <- sum(apply(gen@tab, 2, function(x) length(unique(x)) > 1)) #Checking variation - number of variable sites 
 if (var_sites < 5) stop("Too few polymorphic sites for DAPC") #Stop if too few sites 
 
-gen@tab <- tab(gen, NA.method="mean") #
-
-# Impute missing genotypes with the mean allele frequency
+gen@tab <- tab(gen, NA.method="mean") # Impute missing genotypes with the mean allele frequency
 
 # 5. PCA Analysis and Elbow plot
 pca_out <- dudi.pca(gen, scale=FALSE, # Run Principal Component Analysis (PCA) on genind object
@@ -222,7 +231,6 @@ max_k <- 10 # Set the maximum number of clusters (K) to test
 wss <- sapply(1:max_k, function(k){ # Calculate Within Sum of Squares (WSS) for K-means clustering
   kmeans(pca_out$li, centers=k, nstart=20)$tot.withinss # WSS for each K from 1 to max_k, based on PCA scores
 })
-
 
 optimal_k <- 3 # Manually set the optimal number of clusters chosen from the Elbow Plot
 
@@ -239,7 +247,6 @@ points(x = optimal_k, #Putting a red dot on 3
        bg = "red",  
        cex = 2) 
 
-
 # 6. Final structure bar plot
 set.seed(42) #For reproducibility 
 km <- kmeans(pca_out$li, centers=optimal_k, nstart=20) # Run K-means clustering on the PCA scores
@@ -252,15 +259,17 @@ I chose $K=3$ highlighted in red because the WSS, which measures how compact the
 [Code to make the structure bar plot:]{.underline}
 
 ```{r}
-# 1. Converting DAPC results into a long tidy format for plotting
-assignments_long <- as.data.frame(dapc_res$posterior) %>% #Taking the cluster probabilities from DAPC
-  tibble::rownames_to_column("Individual_ID") %>% #Turning IDs into a column 
-  pivot_longer( #Changing from wide to long format
-    cols = -Individual_ID, # Taking all columns except Individual_ID
-    names_to = "Cluster", #New column name for cluster number
-    values_to = "Membership_Prob" ) %>% # New column name for probability score (0 to 1)
-  left_join(dapc_df %>% select(Individual_ID, Sampling_Location), by = "Individual_ID") %>%
-  mutate(Cluster = as.integer(Cluster)) # Adding location data to the probabilities
+#Libraries used: dplyr, tidyr, tibble. ggplot2
+
+  # 1. Converting DAPC results into a long tidy format for plotting
+  assignments_long <- as.data.frame(dapc_res$posterior) %>% #Taking the cluster probabilities from DAPC
+    tibble::rownames_to_column("Individual_ID") %>% #Turning IDs into a column 
+    pivot_longer( #Changing from wide to long format
+      cols = -Individual_ID, # Taking all columns except Individual_ID
+      names_to = "Cluster", #New column name for cluster number
+      values_to = "Membership_Prob" ) %>% # New column name for probability score (0 to 1)
+    left_join(dapc_df %>% select(Individual_ID, Sampling_Location), by = "Individual_ID") %>%
+    mutate(Cluster = as.integer(Cluster)) # Adding location data to the probabilities
 
 # a) Identify the random cluster ID that corresponds to the South Africa population in this run
 saf_original_id <- assignments_long %>%
@@ -318,7 +327,6 @@ final_cluster_assignments <- mean_assignments_loc %>%
         Genetic_Cluster = Cluster) %>%
     select(Sampling_Location, Genetic_Cluster)
 
-
 # 4. Making the plot settings
 plot_title <- paste0("Genetic Structure of *Tripneustes gratilla* by Location (K=", optimal_k, ")") #Title
 plot_subtitle <- "Clustering based on CO1 sequences" #Subtitle
@@ -369,7 +377,7 @@ ggplot2::ggsave(
 plot(simplified_structure_plot)
 ```
 
-**Figure 1. Mean Genetic Structure of *Tripneustes gratilla* by Location (**$K=3$**).** The Y-axis represents the Mean Membership Probability (Admixture Proportion), where the height of each colored segment indicates the average proportion of the assigned genetic cluster in that respective sampling location. Abbreviations (West to East): MAD, Madagascar; REU, Reunion (France); OMA, Oman; SAF, South Africa; IDN, Indonesia; PHL, Philippines; JPN, Japan; GUM, Guam; PNG, Papua New Guinea; HAW, Hawaii; KIR, Kiritimati; PYF, French Polynesia; CHL, Chile. Data Source: GenBank CO1 Sequences."
+**Figure 1. Mean Genetic Structure of *Tripneustes gratilla* by Location (**$K=3$**).** Each bar is the average amount of the sampling locations total genetic makeup. Y-axis represents the Mean Membership Probability (Admixture Proportion), where the height of each colored segment indicates the average proportion of the assigned genetic cluster in that respective sampling location. Abbreviations (West to East): MAD, Madagascar; REU, Reunion (France); OMA, Oman; SAF, South Africa; IDN, Indonesia; PHL, Philippines; JPN, Japan; GUM, Guam; PNG, Papua New Guinea; HAW, Hawaii; KIR, Kiritimati; PYF, French Polynesia; CHL, Chile. Data Source: GenBank CO1 Sequences."
 
 [Figure 1 Summary:]{.underline} The analysis strongly supports the presence of **significant population genetic structure** in *Tripneustes gratilla*, as demonstrated by the clear partitioning into **three distinct genetic clusters (**$K=3$). These clusters map primarily to different geographic regions, indicating that **gene flow is restricted** **due to geographic and oceanographic barriers across the species' range prevent the mixing of individuals**, allowing populations to diverge genetically. A particularly notable finding is the high degree of isolation of the **South Africa** population, which appears largely assigned to a single, unique cluster. However, a primary limitation of this study is the variable and often low sample size across locations, meaning that sites with fewer samples may not fully represent the true genetic diversity of that population.
 
@@ -378,6 +386,8 @@ plot(simplified_structure_plot)
 This section visualizes the spatial distribution of the $K=3$ genetic clusters identified in the DAPC analysis. The code generates an interactive world map that plots the location of each sample. Point color corresponds to the dominant genetic cluster, and point size reflects the sample count, allowing readers to zoom, pan, and hover for detailed site information.
 
 ```{r, fig.width=18, fig.height=4, out.width='100%'}
+# Libraries used: ggplot2, rnaturalearth, plotly
+
 # 1. Data Prep
 location_coordinates <- data.frame( #Adding location coordinates for the map
   Sampling_Location = c(
@@ -446,7 +456,6 @@ ggplot2::ggsave(filename = here::here("Output", "urchin_map_k3_final.png"),
                 height = 6)
 
 # 6. Display the map interactively
-
 plotly::ggplotly(urchin_map_k3, tooltip = c("text"))
 ```
 
