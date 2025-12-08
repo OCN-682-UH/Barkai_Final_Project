@@ -377,7 +377,7 @@ plot(simplified_structure_plot)
 
 This section visualizes the spatial distribution of the $K=3$ genetic clusters identified in the DAPC analysis. The code generates an interactive world map that plots the location of each sample. Point color corresponds to the dominant genetic cluster, and point size reflects the sample count, allowing readers to zoom, pan, and hover for detailed site information.
 
-```{r, fig.width=18, fig.height=12, out.width='100%'}
+```{r, fig.width=18, fig.height=4, out.width='100%'}
 # 1. Data Prep
 location_coordinates <- data.frame( #Adding location coordinates for the map
   Sampling_Location = c(
@@ -443,7 +443,7 @@ urchin_map_k3 <- ggplot(data = world) +
 ggplot2::ggsave(filename = here::here("Output", "urchin_map_k3_final.png"),
                 plot = urchin_map_k3,
                 width = 18,
-                height = 12)
+                height = 6)
 
 # 6. Display the map interactively
 
