@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+// These variables globally override Quarto/Bootstrap defaults
+
+//primary color is purple
+$primary: #4B0082; 
+
+// font
+$font-family-sans-serif: 'Georgia', serif; 
+
+// Use primary color for all hyperlink text
+$link-color: $primary; 
+
+// Use the primary color for all section headings
+$headings-color: $primary;
+
+// Add line under main document title block
+.quarto-title-block {
+  border-bottom: 1px solid $headings-color !important;
+  padding-bottom: 15px; /* Add space below the title line */
+  margin-bottom: 20px; /* Add space below the line to the start of the Introduction */
+}
+
+// Add line under Level 1 headings (#)
+h1 {
+  border-bottom: 1px solid $headings-color !important;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+// Add line under Level 2 headings (##)
+h2 {
+  border-bottom: 1px solid $headings-color !important;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+// Add a horizontal line beneath all level 3 headings
+h3 {
+  // Define a 1-pixel solid line using the primary purple color
+  border-bottom: 1px solid $headings-color !important;
+  // Add a small gap between the heading text and the line for visual comfort
+  padding-bottom: 5px;
+}
