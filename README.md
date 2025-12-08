@@ -17,17 +17,21 @@ The analysis confirms the presence of significant genetic structure.
 ## Repository Structure
 
 The core project files and data are organized as follows:
-├── **Data/**
-│   ├── Cleaned_Tripneustes_CO1_Data.csv   # Final curated dataset (222 sequences)
-│   └── (Raw GenBank files)                # Original data source files
-├── **Output/**
-│   ├── Final_Project.html                 # Final knitted R Markdown report
-│   ├── elbow_method_plot.png              # Plot showing optimal K=3 for clustering
-│   ├── structure_plot_simplified_mean_loc.png # Main DAPC Structure Plot (Figure 1)
-│   └── urchin_map_k3_final.png            # Geographic Map of Clusters (Figure 2)
-├── **Scripts/**
-│   └── Final_Project_Cleaning_Data_Steps.R # Script used for data cleaning
-└── **Final_Project.Rmd** # Source R Markdown file containing all analysis and code
+* Data
+  * Cleaned_Tripneustes_CO1_Data.csv - Cleaned data
+  * Final_Project_Data_Dictionary.csv - Data Dictionary
+  * sequence (1).gb - Raw data
+  * sequence (2).gb - Raw data
+  * sequence (3).gb - Raw data
+  * sequence (4).gb - Raw data
+  * sequence (5).gb - Raw data
+  * sequence (6).gb - Raw data
+* Output
+  * structure_plot_simplified_mean_loc.png - Structure Bar Plot (Figure 1)
+  * urchin_map_k3_final.png - Geographic Map of Clusters (Figure 2)
+* Scripts
+  * Final_Project.qmd - Final Quarto document
+  * Final_Project.html - Final knitted HTML report
 
 ---
 
